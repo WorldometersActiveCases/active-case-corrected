@@ -11,7 +11,7 @@
             type: 'line'
         },
         title: {
-            text: 'Coronavirus numbers'
+            text: 'Coronavirus Numbers'
         },
 
         subtitle: {
@@ -23,7 +23,7 @@
 
         yAxis: {
             title: {
-                text: 'Total cases'
+                text: 'Total Coronavirus Cases'
             }
 
 
